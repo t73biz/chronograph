@@ -24,6 +24,7 @@ yarn run dev
 ### Compile and Minify for Production
 
 ```sh
+<<<<<<< HEAD
 yarn run build
 ```
 
